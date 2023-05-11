@@ -7,6 +7,9 @@
 @@ If you cannot access the dataset, I would be super happy to help. Email me @: shamsuddeen2004@gmail.com @@
 ```
 
+## Update: 
+
+We now released the tweets and you can download them directly from this GitHub Repo
 
 We provide the dataset used in our NaijaSenti paper. We will host Zindi compeitition soon on sentiment classification for Nigerian languages. Therefore, only training and validation set are released [train_eval_split](https://github.com/hausanlp/NaijaSenti/tree/main/data/train_eval).
 
