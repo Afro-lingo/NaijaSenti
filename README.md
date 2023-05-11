@@ -49,6 +49,9 @@ If you use this data in your work, please cite:
 
 ```
 
+ ## Dataset
+ 
+ Find the annotated dataset for Hausa, Yoruba, Igbo and Pidgin : [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_tweets)
 
 
 ## Table of Contents
