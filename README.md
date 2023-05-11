@@ -49,7 +49,6 @@ If you use this data in your work, please cite:
 
 ```
 
-Table of Contents
 
 
 
