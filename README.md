@@ -29,7 +29,7 @@
 
 Update (05/09/2022): We are running a SemEval competition and we release more sentiment dataset from African languages including NaiJaSenti Dataset. Visit the AfriSenti SemEval page for more information : [AfriSenti-SemEval Task 12](https://afrisenti-semeval.github.io)
 
-Update (02/10/2022): Send me email (shamsuddeen2004 at gmail.com) if you need NaijaSenti Dataset. We can send you anonymized dataset.
+Update (02/10/2022): Send me email (shamsuddeen2004 at gmail.com) if you need more information about the dataset.
   
 ## Citation
 
