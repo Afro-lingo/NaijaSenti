@@ -31,6 +31,9 @@ Update (05/09/2022): We are running a SemEval competition and we release more se
 
 Update (02/10/2022): Send me email (shamsuddeen2004 at gmail.com) if you need NaijaSenti Dataset. We can send you anonymized dataset.
   
+## Citation
+
+If you use this data in your work, please cite:
 
  
 ```bibtex
@@ -94,9 +97,6 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 
 Our model is available via Hugginface Model Hub [here](https://huggingface.co/Davlan/naija-twitter-sentiment-afriberta-large)
 
-## Citation
-
-If you use this data in your work, please cite:
 
 
 
