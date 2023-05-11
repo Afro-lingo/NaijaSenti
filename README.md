@@ -32,6 +32,19 @@ Update (05/09/2022): We are running a SemEval competition and we release more se
 Update (02/10/2022): Send me email (shamsuddeen2004 at gmail.com) if you need NaijaSenti Dataset. We can send you anonymized dataset.
   
 
+ 
+```bibtex
+
+@misc{muhammad2022naijasenti,
+      title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
+      author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Sebastian Ruder and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Saheed Salahudeen Abdullahi and Anuoluwapo Aremu and Alipio Jeorge and Pavel Brazdil},
+      year={2022},
+      eprint={2201.08277},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+```
 
 Table of Contents
 
@@ -86,18 +99,6 @@ Our model is available via Hugginface Model Hub [here](https://huggingface.co/Da
 If you use this data in your work, please cite:
 
 
-```bibtex
-
-@misc{muhammad2022naijasenti,
-      title={NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis}, 
-      author={Shamsuddeen Hassan Muhammad and David Ifeoluwa Adelani and Sebastian Ruder and Ibrahim Said Ahmad and Idris Abdulmumin and Bello Shehu Bello and Monojit Choudhury and Chris Chinenye Emezue and Saheed Salahudeen Abdullahi and Anuoluwapo Aremu and Alipio Jeorge and Pavel Brazdil},
-      year={2022},
-      eprint={2201.08277},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-
-```
 
 ## Papers from this project 
 
