@@ -51,7 +51,6 @@ If you use this data in your work, please cite:
 
 
 
-
 ## Table of Contents
 
   - [Paper](#paper)
@@ -79,7 +78,7 @@ Sentiment analysis is one of the most widely studied applications in NLP, but mo
 ## Download NaijaSenti Datasets
 
 
-#### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_twitter_corpus.md)
+#### 1. [Manually Annotated Twitter Sentiment Dataset](https://github.com/hausanlp/NaijaSenti/tree/main/data/annotated_tweets)
 
 #### 2. [Manually Annotated Sentiment Lexicon](https://github.com/hausanlp/NaijaSenti/blob/main/sections/annotated_sentiment_lexicon.md)  
 
