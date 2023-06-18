@@ -1,4 +1,4 @@
-word,machine,human,label,emotion_intensity_score
+word,machine_translation,human_translation,label,emotion_intensity_score
 outraged,were oke iwe,were oke iwe,anger,0.964
 brutality,obi ojoo,obi ọjọọ,anger,0.959
 hatred,ịkpọasị,ịkpọasị,anger,0.953

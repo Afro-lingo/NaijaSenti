@@ -1,4 +1,4 @@
-word,machine,human,label
+word,machine_translation,human_translation,label
 definitive,pataki,pataki,positive
 verbosity,verbosity,àròyé,negative
 charade,charade,ìsínjẹ,negative

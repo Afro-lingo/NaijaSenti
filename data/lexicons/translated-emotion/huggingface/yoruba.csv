@@ -1,4 +1,4 @@
-word,machine,human,label,emotion_intensity_score
+word,machine_translation,human_translation,label,emotion_intensity_score
 outraged,ibinu,ìbínú,anger,0.964
 brutality,iwa ika,Ìwà ìkà,anger,0.959
 hatred,ikorira,ìkóríra,anger,0.953
