@@ -1,4 +1,4 @@
-word,machine_translation,human_translation,label
+word,machine,human,label
 touting,nunawa,Kayi-nayi,negative
 symmetry,daidaitawa,daidaitawa,positive
 inconsistency,rashin daidaito,rashin daidaito,negative

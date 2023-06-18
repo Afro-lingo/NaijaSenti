@@ -1,4 +1,4 @@
-word,machine_translation,human_translation,label,emotion_intensity_score
+word,machine,human,label,emotion_intensity_score
 outraged,fushi,fushi,anger,0.964
 brutality,zalunci,zalunci,anger,0.959
 hatred,ƙiyayya,ƙiyayya,anger,0.953
